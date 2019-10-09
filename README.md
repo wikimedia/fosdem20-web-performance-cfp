@@ -1,8 +1,8 @@
 # FOSDEM 2020 Call for Participation: Web Performance
 
-FOSDEM is a Free Software event that offers free software communities a place to meet, share ideas and collaborate. It brings together 8000+ participants from all over the world. It is held in Brussels (Belgium). FOSDEM will take place during the weekend of February 1st-2nd 2020.
+[FOSDEM](https://fosdem.org/2020/) is a Free Software event that offers free software communities a place to meet, share ideas and collaborate. It brings together 8000+ participants from all over the world. It is held in Brussels (Belgium). FOSDEM will take place during the weekend of February 1st-2nd 2020.
 
-More details about the event can be found at http://fosdem.org/.
+More details about the event can be found at https://fosdem.org/.
 
 ## Web Performance devroom
 
@@ -23,7 +23,7 @@ The talk length should be **30 minutes + 5 minutes for Q&A**. If you need a diff
 
 Please submit your proposals at https://penta.fosdem.org/submission/FOSDEM20 before December 2nd 2019.
 
-Click on "Create event" and then on "Show all" in the top right corner to display the full form. Make sure that you select "Web Performance devroom" in the "track" drop-down menu.
+Click on *"Create event"* and then on *"Show all"* in the top right corner to display the full form. Make sure that you select *"Web Performance devroom"* in the *"track*" drop-down menu.
 
 Your submission must include the following information:
 
