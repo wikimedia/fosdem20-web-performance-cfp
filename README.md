@@ -25,10 +25,10 @@ Click on "Create event" and then on "Show all" in the top right corner to displa
 
 Your submission must include the following information:
 
-The title and subtitle of your talk (please be descriptive, as titles will be listed with hundreds from other projects)
-A short abstract of one paragraph
-A longer description if you wish to do so
-Links to related websites/blogs etc.
+- The title and subtitle of your talk (please be descriptive, as titles will be listed with hundreds from other projects)
+- A short abstract of one paragraph
+- A longer description if you wish to do so
+- Links to related websites/blogs etc.
 
 ## Important dates
 
