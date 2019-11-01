@@ -13,7 +13,7 @@ The Web Performance field is driven by open standards (browser APIs, internet pr
 Most conferences about this topic tend to focus on best practices and standards once they’ve been finalized, while the ongoing creation of standards and FLOSS tooling development is rarely talked about. The objective of this devroom is to bring focus to these critical areas that actually define the future of the Web Performance field.
 
 Suggested presentation topics:
-- FLOSS tools to monitor, measure, analyse, optimize web performance
+- FLOSS tools to monitor, measure, analyse, optimize backend or frontend web performance
 - Open standards (eg. HTTP/3, upcoming JS/HTML/CSS standards)
 - Academic research on web performance
 
