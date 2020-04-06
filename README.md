@@ -4,6 +4,8 @@
 
 More details about the event can be found at https://fosdem.org/.
 
+You can look at all the talks at https://wikimedia.github.io/fosdem20webperf/
+
 ## Web Performance devroom
 
 The Web Performance devroom will focus on ongoing open standards development and FLOSS projects that support Web Performance work.
